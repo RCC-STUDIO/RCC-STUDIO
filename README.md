@@ -18,9 +18,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,nextjs,react,html,css,js,ts" />
-    <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,java,unreal,lua,md" />
-    <img src="https://skillicons.dev/icons?i=eclipse,visualstudio,vscode,git,github,vercel,windows" />
+    <img src="https://skillicons.dev/icons?i=nodejs,nextjs,react,html,css,js,ts" /></br>
+    <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,java,unreal,lua,md" /></br>
+    <img src="https://skillicons.dev/icons?i=eclipse,visualstudio,vscode,git,github,vercel,windows" /></br>
 </div>
 <br></br>
 
