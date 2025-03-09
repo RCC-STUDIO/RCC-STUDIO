@@ -1,5 +1,28 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=RCC-STUDIO.RCC-STUDIO" />
-<h1 align="center">Hi there, I'm RCC-STUDIO 👋</h1>
+
+<h1 align="center">Hi there👋, I'm Ryan Clarkson or RCC STUDIO </h1>
+
+<h3 align="center">A passionate developer from the Canada 🇨🇦</h3><br/>
+
+<div align="center">
+
+🔭 I’m currently working on **a website**
+
+🌱 I’m currently learning **C++, Unreal Engine 5**
+
+👯 I’m looking to collaborate on **open source projects**
+
+
+
+</div>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=nodejs,nextjs,react,html,css,js,ts" />
+    <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,java,unreal,lua,md" />
+    <img src="https://skillicons.dev/icons?i=eclipse,visualstudio,vscode,git,github,vercel,windows" />
+</div>
+<br></br>
 
 <!--
 **RCC-STUDIO/RCC-STUDIO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
