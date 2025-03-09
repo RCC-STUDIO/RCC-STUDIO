@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there👋, I'm Ryan Clarkson or RCC STUDIO </h1>
 
-<h3 align="center">A passionate developer from the Canada 🇨🇦</h3><br/>
+<h3 align="center">A passionate software developer from the Canada 🇨🇦</h3><br/>
 
 <div align="center">
 
