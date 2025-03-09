@@ -1,17 +1,16 @@
-
-<h1 align="center">Hi there👋, I'm Ryan or RCC STUDIO </h1>
-
-<h3 align="center">A passionate software developer from the Canada 🇨🇦</h3><br/>
+<h1 align="center">Hi there 👋, I'm Ryan, also known as RCC STUDIO</h1>
+<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<br/>
 
 <div align="center">
 
-🔭 I’m currently working on **a website**
+🔭 I’m currently working on **an innovative website**
 
-🌱 I’m currently learning **C++, Unreal Engine 5**
+🌱 I’m diving deep into **C++** and **Unreal Engine 5**
 
-👯 I’m looking to collaborate on **open source projects**
+👯 I’m eager to collaborate on **open source projects** 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,nextjs,react,html,css,js,ts" /></br>
@@ -20,13 +19,19 @@
 </div>
 <br></br>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RCC-STUDIO&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RCC-STUDIO&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RCC-STUDIO&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RCC-STUDIO&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=RCC-STUDIO&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RCC-STUDIO&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=RCC-STUDIO&theme=transparent&no-frame=false&no-bg=true&margin-w=4)
+
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RCC-STUDIO&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
