@@ -1,4 +1,3 @@
-<img align="right" src="src="https://visitor-badge.laobi.icu/badge?page_id=RCC-STUDIO.RCC-STUDIO" alt="visitor badge"/>
 
 <h1 align="center">Hi there, I'm RCC-STUDIO 👋</h1>
 
