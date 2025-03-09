@@ -1,4 +1,6 @@
-## Hi there 👋
+<img align="right" src="src="https://visitor-badge.laobi.icu/badge?page_id=RCC-STUDIO.RCC-STUDIO" alt="visitor badge"/>
+
+<h1 align="center">Hi there, I'm RCC-STUDIO 👋</h1>
 
 <!--
 **RCC-STUDIO/RCC-STUDIO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
