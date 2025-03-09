@@ -18,3 +18,6 @@ A clear and concise description of any alternative solutions or features you've 
 
 **Additional context**
 Add any other context or screenshots about the feature request here.
+
+**Community Guidelines**
+Please make sure your request/report adheres to [Community Guidelines](https://docs.github.com/articles/github-community-guidelines)
