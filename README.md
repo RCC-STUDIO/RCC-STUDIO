@@ -15,7 +15,7 @@
 <br/>
 <div align="center">
     <h3> Web Development </h3>
-        <img src="https://skillicons.dev/icons?i=vercel,nodejs,nextjs,react" /></br>
+        <img src="https://skillicons.dev/icons?i=vercel,nodejs,nextjs,react,bootstrap" /></br>
         <img src="https://skillicons.dev/icons?i=html,css,js,ts" /></br>
     <h3>Native App Development</h3>
         <img src="https://skillicons.dev/icons?i=cs,dotnet" /></br>
