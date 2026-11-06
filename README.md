@@ -12,17 +12,16 @@
 ## 💻 Tech Stack:
 
 <div >
-    <!--
     <h3> Web Development </h3>
-        <img src="https://skillicons.dev/icons?i=vercel,nodejs,nextjs,react,bootstrap" /></br>
+        <img src="https://skillicons.dev/icons?i=nodejs,react,bootstrap" /></br>
         <img src="https://skillicons.dev/icons?i=html,css,js,ts" /></br>
-    -->
     <h3>Native App Development</h3>
-        <img src="https://skillicons.dev/icons?i=dotnet,cpp,cs" /></br>
-        <img src="https://skillicons.dev/icons?i=unreal,lua" /></br>
+        <img src="https://skillicons.dev/icons?i=dotnet,cpp,cs,java,python" /></br>
+        <img src="https://skillicons.dev/icons?i=unreal,lua,md" /></br>
     <h3> IDEs and Tools </h3>
-        <img src="https://skillicons.dev/icons?i=visualstudio,vscode,md" /></br>
         <img src="https://skillicons.dev/icons?i=github,git" /></br>
+        <img src="https://skillicons.dev/icons?i=visualstudio,vscode,ps," /></br>
+        <img src="https://skillicons.dev/icons?i=apple,windows,linux" /></br>
 </div>
 <br></br>
 
